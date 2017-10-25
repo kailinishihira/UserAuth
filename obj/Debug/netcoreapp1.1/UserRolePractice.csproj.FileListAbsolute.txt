@@ -1,0 +1,12 @@
+/Users/Guest/Desktop/UserRolePractice/bin/Debug/netcoreapp1.1/UserRolePractice.db
+/Users/Guest/Desktop/UserRolePractice/bin/Debug/netcoreapp1.1/UserRolePractice.deps.json
+/Users/Guest/Desktop/UserRolePractice/bin/Debug/netcoreapp1.1/UserRolePractice.runtimeconfig.json
+/Users/Guest/Desktop/UserRolePractice/bin/Debug/netcoreapp1.1/UserRolePractice.runtimeconfig.dev.json
+/Users/Guest/Desktop/UserRolePractice/bin/Debug/netcoreapp1.1/UserRolePractice.dll
+/Users/Guest/Desktop/UserRolePractice/bin/Debug/netcoreapp1.1/UserRolePractice.pdb
+/Users/Guest/Desktop/UserRolePractice/obj/Debug/netcoreapp1.1/UserRolePractice.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/UserRolePractice/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/Users/Guest/Desktop/UserRolePractice/obj/Debug/netcoreapp1.1/UserRolePractice.AssemblyInfo.cs
+/Users/Guest/Desktop/UserRolePractice/obj/Debug/netcoreapp1.1/UserRolePractice.dll
+/Users/Guest/Desktop/UserRolePractice/obj/Debug/netcoreapp1.1/UserRolePractice.pdb
+/Users/Guest/Desktop/UserRolePractice/obj/Debug/netcoreapp1.1/UserRolePractice.csproj.CoreCompileInputs.cache
